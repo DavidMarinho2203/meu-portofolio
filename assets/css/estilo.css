@@ -358,6 +358,10 @@ body main #container__MeConhecer #minhasHabilidades ul li:nth-child(4) a:hover {
   background-color: #F7E025;
   color: hsl(0, 0%, 100%);
 }
+body main #container__MeConhecer #minhasHabilidades ul li:nth-child(5) a:hover {
+  background-color: #F74E07;
+  color: hsl(0, 0%, 100%);
+}
 @media (width >= 768px) {
   body main #container__MeConhecer {
     grid-template-areas: "area1 area2";

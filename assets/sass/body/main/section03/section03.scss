@@ -129,6 +129,12 @@
                     color: $secudaria-branco-cor;
                 }
             }
+            li:nth-child(5){
+                a:hover{
+                    background-color: $linguagem-laranja-cor;
+                    color: $secudaria-branco-cor;
+                }
+            }
         }
 
     }
