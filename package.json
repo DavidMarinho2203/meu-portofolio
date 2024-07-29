@@ -1,0 +1,12 @@
+{
+  "name": "portolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/sass/estilo.scss:./assets/css/estilo.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
